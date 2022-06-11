@@ -1,8 +1,8 @@
 /* Body styling */
 body {
   background: #3b0360; 
-  color: #fff;
-  font-family:  Luminari, Arial;
+  color: rgb(241, 245, 7);
+  font-family:  Brush Script MT, French Script MT;
   font-size: 27px;
   font-weight: 300;
   line-height: 1.65em;
@@ -65,7 +65,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #e9f008;
+  color: #ec08f0;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
