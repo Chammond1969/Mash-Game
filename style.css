@@ -3,7 +3,7 @@ body {
   background: #3b0360; 
   color: rgb(241, 245, 7);
   font-family:  Brush Script MT, French Script MT;
-  font-size: 27px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -14,7 +14,7 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 75px;
+  font-size: 70px;
   color: rgb(128, 246, 10);
   text-align: center;
 }
@@ -30,12 +30,12 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #fff;
+  border: 3px solid rgb(128, 246, 10);
   border-radius: 6px;
-  color: #fff;
+  color: rgb(128, 246, 10);
   cursor: pointer; 
   display: block;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: bold;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
@@ -57,8 +57,8 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 18px;
-  line-height: 20px;
+  font-size: 24px;
+  line-height: 26px;
   margin: 15px 4%;
 }
 
