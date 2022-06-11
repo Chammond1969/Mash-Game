@@ -5,8 +5,8 @@ body {
   font-family:  Brush Script MT, French Script MT;
   font-size: 30px;
   font-weight: 300;
-  line-height: 1.65em;
-  margin: 0 auto;
+  line-height: 2em;
+  margin: 0 ;
   max-width: 1960px;
   padding: 40px 10px;  
 }
@@ -23,7 +23,7 @@ h1 {
 /* Game Directions */
 .description {
   text-align: center;
-  margin: 80px auto 40px;
+  margin: 40px auto 40px;
 }
 
 
@@ -79,7 +79,7 @@ h1 {
 }
 
 .highlight {
-  font-size: 18px;
+  font-size: 24px;
   line-height: 24px;
   margin-left: 30px;
   opacity: .8;
