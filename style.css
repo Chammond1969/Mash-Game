@@ -90,9 +90,9 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #fff;
+  background: rgb(164, 239, 235);
   border-radius: 6px;
-  color: #713e94;
+  color: #feb24e;
   transition: 1s linear;
 }
 
